@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+html {
+  font-style: 62.5%;
+}
+/* khooi phục lại */
+body {
+  font-size: 1.6rem;
+  font-family: "Poppins", serif;
+}
